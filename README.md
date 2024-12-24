@@ -1,6 +1,8 @@
 # Movie-Recommendation-System-Using-Machine-Learning
 A movie recommendation system Using Machine learning With Code, Documents And Video Tutorial
 
+![Movie](https://github.com/user-attachments/assets/54da6ab9-d4f7-4b08-a808-1c504b839934)
+
 ## Youtube Video: https://youtu.be/3_0gWNzBiGQ?si=3j2CcuRGX8o02dK_
 
 ## Abstract: 
